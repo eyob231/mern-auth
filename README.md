@@ -1,4 +1,4 @@
-cat <<EOF > README.md
+
 # MERN Stack Authentication App
 
 ## Table of Contents
